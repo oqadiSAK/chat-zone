@@ -1,0 +1,6 @@
+[submodule "chat-zone-frontend"]
+	path = chat-zone-frontend
+	url = https://github.com/oqadiSAK/chat-zone-frontend.git
+[submodule "chat-zone-backend"]
+	path = chat-zone-backend
+	url = https://github.com/oqadiSAK/chat-zone-backend.git
